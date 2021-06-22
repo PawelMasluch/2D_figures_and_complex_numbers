@@ -2,4 +2,4 @@
 
 Copyright (C) Paweł Maśluch, 2021. All rights reserved.
 
-Definitions of 2D figures (point, triangle, rectangle, vector) and complex numbers and examples of use  (C++, Windows).
+Definitions (classes with templates) of 2D figures (point, triangle, rectangle, vector) and complex numbers and examples of use  (C++, Windows).
